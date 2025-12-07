@@ -1,0 +1,4 @@
+BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+ADMIN_IDS = {123456789}
+DATABASE_PATH = "phoenix_sklad.db"
+EXCEL_FILE = "Адреса.xlsx"
